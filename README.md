@@ -1,4 +1,4 @@
-# website-testing-cross-site-scripting
+# website-testing-cross-site-scripting (in progress)
 
 This project is about a lab-based web application security assessment focused on discovering, exploiting and preventing Cross Site Scripting (XSS) vulnerabilities.
 
